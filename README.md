@@ -39,14 +39,17 @@ The dataset comprises sensory evaluations of coffee samples, focusing on attribu
 ## Key Insights
 
 - Aroma significantly impacts overall quality scores
+- 
 ![SCREENSHORT 5](https://github.com/user-attachments/assets/0d4c3979-c9d2-4cf6-831f-0fa175fcc2e4)
 
 
 - Processing methods affect flavor and acidity levels
+- 
 - ![SCREENSHORT 3](https://github.com/user-attachments/assets/0b5a5cfd-70f6-4dd6-b503-9a010abf089f)
 
 
 - Specific coffee varieties consistently rank higher in quality assessments
+- 
 ![SCREENSHORT 7](https://github.com/user-attachments/assets/c7344911-ba03-4803-9e81-11bc5189f6ff)
 
 
@@ -80,9 +83,21 @@ The dataset comprises sensory evaluations of coffee samples, focusing on attribu
         |  Defect Rates    |           |
         +---------------------------------------+
 3. Regularly monitor defect occurrences
-4. 
-5. Encourage sustainable practices benefiting producers and consumers
+   ![image](https://github.com/user-attachments/assets/9e593835-8c85-4517-ac32-abbd90793805)
 
+5. Encourage sustainable practices benefiting producers and consumers
++-----------------------------------+
+|        Sustainable Practices      |
++-----------------------------------+
+| • Shade-Grown Coffee              |
+|   - Benefits:                   |
+|     - Preserves biodiversity       |
+|     - Higher quality beans         |
+| • Organic Farming                  |
+|   - Benefits:                   |
+|     - No harmful chemicals         |
+|     - Better health for consumers  |
++-----------------------------------+
 
 ## Conclusion
 
@@ -95,4 +110,6 @@ This project demonstrates the value of data analysis in the coffee industry. By 
 ## Acknowledgments
 
 Thank you to coffee producers and organizations for their contributions to the dataset and insights.
+
+![image](https://github.com/user-attachments/assets/5cd0362e-068d-4af8-8fff-d5acddd4f16d)
 
